@@ -1,0 +1,8 @@
+{
+  "name": "AQI Vision AI",
+  "description": "Intelligent environmental monitoring platform with real-time AQI collection, local machine learning models, LSTM forecasting, computer vision pollution detection, and interactive GIS visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
